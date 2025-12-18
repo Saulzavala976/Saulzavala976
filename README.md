@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/www.youtube.com/@saulprogramando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@saulprogramando" height="30" width="40" /></a>
+<a href="https://youtube.com/@saulprogramando?si=E0k2yPdiEUgiK44I" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@saulprogramando" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saulzavala976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saulzavala976" height="30" width="40" /></a>
 </p>
 
